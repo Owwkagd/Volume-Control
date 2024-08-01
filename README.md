@@ -15,5 +15,5 @@ You can change your Music and SFX volume ingame by simply pressing two keys
 * ArBuZik
 
 # Contacts
-* [Discord server](https://docs.geode-sdk.org/)
+* [Discord server](https://discord.gg/XfUc2wGvJv)
 * Discord: @owwka
