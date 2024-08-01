@@ -1,0 +1,40 @@
+{
+	"geode": "3.2.0",
+	"gd": {
+		"win": "2.206"
+	},
+	"id": "owwka.volume_control",
+	"name": "Volume Control",
+	"version": "v1.0.0",
+	"developer": "Owwka",
+	"description": "You can quickly cange your ingame volume.",
+	"repository": "https://github.com/Owwkagd/Volume-Control",
+	"dependencies": [
+		{
+			"id": "geode.custom-keybinds",
+			"version": ">=v1.7.1",
+			"importance": "required"
+		}
+	],
+	"tags": [ "music", "universal", "offline", "interface" ],
+	"links": {
+		"community": "https://discord.gg/XfUc2wGvJv",
+		"source": "https://github.com/Owwkagd/Volume-Control"
+	},
+	"settings": {
+		"dissapear-time": {
+			"type": "float",
+			"default": 2,
+			"min": 1,
+			"max": 10,
+			"name": "Dissapearing time",
+			"description": "Changes dissapearing time <cy>(in seconds)</c>",
+			"control": {
+				"arrows": false,
+				"slider": false,
+				"big-arrows": false,
+				"input": true
+			}
+		}
+	}
+}
